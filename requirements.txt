@@ -1,0 +1,5 @@
+Python == 3.7.9
+OpenCV
+Pandas
+Numpy
+Ultralytics
